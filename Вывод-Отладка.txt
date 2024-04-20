@@ -1,0 +1,48 @@
+﻿"1LB.exe" (Win32). Загружено "D:\Уник\2 курс\Прога\1LB — копия\x64\Debug\1LB.exe". Символы загружены.
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\mfc140ud.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\shlwapi.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.2006_none_919e9136cc8d4791\GdiPlus.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". 
+d:\a01\_work\12\s\src\vctools\VC7Libs\Ship\ATLMFC\Src\MFC\docmgr.cpp(96) : AppMsg - Warning: registration database update failed for key 'My1LB.Document'.
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\TextShaping.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\TextInputFramework.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\CoreUIComponents.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\CoreMessaging.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\SHCore.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ws2_32.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". 
+"1LB.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". 
+"1LB.exe" (Win32). Выгружено "C:\Windows\System32\WinTypes.dll"
+Поток 0x1978 завершился с кодом 0 (0x0).
+Поток 0x144c завершился с кодом 0 (0x0).
+Поток 0x2308 завершился с кодом 0 (0x0).
+Поток 0x11c4 завершился с кодом 0 (0x0).
+Поток 0x1100 завершился с кодом 0 (0x0).
+Программа "[4940] 1LB.exe" завершилась с кодом 0 (0x0).
